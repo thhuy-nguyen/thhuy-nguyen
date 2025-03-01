@@ -1,8 +1,8 @@
 ---
 
 # 👋 Hey there, I'm Thanh Huy Nguyen!  
-🚀 Passionate Software Engineer on a mission to build impactful tech solutions.
-🌐 Cooking my own SaaS product.
+🚀 Passionate Software Engineer on a mission to build impactful tech solutions.  
+🌐 Cooking my own SaaS product.  
 🎓 Pursuing Master’s in Computer Science in Germany.  
 💡 Exploring **FOMO-driven engagement**, **data-powered insights**, and **digital currencies**.  
 
