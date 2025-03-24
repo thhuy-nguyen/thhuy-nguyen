@@ -4,7 +4,7 @@
 🚀 Passionate Software Engineer on a mission to build impactful tech solutions.  
 🌐 Cooking my own SaaS product.  
 🎓 Pursuing Master’s in Computer Science in Germany.  
-💡 Exploring **FOMO-driven engagement**, **data-powered insights**, and **digital currencies**.  
+💡 Exploring **data-powered insights**, and **digital currencies**.  
 
 ---
 
@@ -35,20 +35,6 @@
 
 ### 💻 **Platforms**  
 🖥️ macOS | 🐧 Linux  
-
----
-
-# 📊 GitHub Stats  
-🔥 **Commit Streak & Contributions**  
-![](https://nirzak-streak-stats.vercel.app/?user=thhuy-nguyen&theme=dark&hide_border=true)  
-
-📈 **Profile Stats**  
-![](https://github-readme-stats.vercel.app/api?username=thhuy-nguyen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-
-💡 **Most Used Languages**  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thhuy-nguyen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
